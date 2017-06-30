@@ -1,0 +1,9 @@
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\bin\Debug\Client.exe.config
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\bin\Debug\Client.exe
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\bin\Debug\Client.pdb
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\obj\Debug\Client.Form1.resources
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\obj\Debug\Client.exe
+D:\Mesteri\I. év\I. év, II. félév\Modell alapú tervezés és fejlesztés\Microservices\Client\Client\Client\obj\Debug\Client.pdb
