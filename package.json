@@ -1,0 +1,29 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "description": "Process requests after authorization",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0",
+    "oauth2-server": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://csenge94@bitbucket.org/csenge94/rest-comm-with-authorization-and-authentication-among.git"
+  },
+  "keywords": [
+    "oauth2",
+    "token",
+    "rest"
+  ],
+  "author": "Kinga Kovacs, Csenge Gyorfi",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/csenge94/rest-comm-with-authorization-and-authentication-among#readme"
+}
